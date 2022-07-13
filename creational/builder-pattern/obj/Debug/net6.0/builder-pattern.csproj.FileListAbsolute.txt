@@ -1,0 +1,15 @@
+C:\Users\parasgarg\Documents\Projects\software-design-patterns\creational\builder-pattern\bin\Debug\net6.0\builder-pattern.exe
+C:\Users\parasgarg\Documents\Projects\software-design-patterns\creational\builder-pattern\bin\Debug\net6.0\builder-pattern.deps.json
+C:\Users\parasgarg\Documents\Projects\software-design-patterns\creational\builder-pattern\bin\Debug\net6.0\builder-pattern.runtimeconfig.json
+C:\Users\parasgarg\Documents\Projects\software-design-patterns\creational\builder-pattern\bin\Debug\net6.0\builder-pattern.dll
+C:\Users\parasgarg\Documents\Projects\software-design-patterns\creational\builder-pattern\bin\Debug\net6.0\builder-pattern.pdb
+C:\Users\parasgarg\Documents\Projects\software-design-patterns\creational\builder-pattern\obj\Debug\net6.0\builder-pattern.csproj.AssemblyReference.cache
+C:\Users\parasgarg\Documents\Projects\software-design-patterns\creational\builder-pattern\obj\Debug\net6.0\builder-pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\parasgarg\Documents\Projects\software-design-patterns\creational\builder-pattern\obj\Debug\net6.0\builder-pattern.AssemblyInfoInputs.cache
+C:\Users\parasgarg\Documents\Projects\software-design-patterns\creational\builder-pattern\obj\Debug\net6.0\builder-pattern.AssemblyInfo.cs
+C:\Users\parasgarg\Documents\Projects\software-design-patterns\creational\builder-pattern\obj\Debug\net6.0\builder-pattern.csproj.CoreCompileInputs.cache
+C:\Users\parasgarg\Documents\Projects\software-design-patterns\creational\builder-pattern\obj\Debug\net6.0\builder-pattern.dll
+C:\Users\parasgarg\Documents\Projects\software-design-patterns\creational\builder-pattern\obj\Debug\net6.0\refint\builder-pattern.dll
+C:\Users\parasgarg\Documents\Projects\software-design-patterns\creational\builder-pattern\obj\Debug\net6.0\builder-pattern.pdb
+C:\Users\parasgarg\Documents\Projects\software-design-patterns\creational\builder-pattern\obj\Debug\net6.0\builder-pattern.genruntimeconfig.cache
+C:\Users\parasgarg\Documents\Projects\software-design-patterns\creational\builder-pattern\obj\Debug\net6.0\ref\builder-pattern.dll
