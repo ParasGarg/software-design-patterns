@@ -23,7 +23,7 @@ There are mainly three types in which all the 23 design patterns are categoried 
 | 10 | Facade | Structural | |
 | 11 | Flyweight | Structural | |
 | 12 | Proxy | Structural | |
-| 13 | Chain of Responsibility | |
+| 13 | Chain of Responsibility | Behavioral | |
 | 14 | Command | Behavioral | |
 | 15 | Interpreter | Behavioral | |
 | 16 | Iterator | Behavioral | |
