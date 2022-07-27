@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+## Software Design Patterns
 
-You can use the [editor on GitHub](https://github.com/ParasGarg/software-design-patterns/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+This repository is dedicated to have all the detailed information about the software design patterns. The repository contains all the famous design patterns which are used across the software engineering and development. You can find a details about every design pattern with a working code example which you can refer and obtain better understanding on the implementation.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Design Pattern Types
+There are mainly three types in which all the 23 design patterns are categoried into:
+1. Creational
+2. Structural
+3. Behavioral
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ParasGarg/software-design-patterns/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Design Patterns
+| S. No. | Name | Type | Link |
+| --- | --- | --- | --- |
+| 1 | Abstract Factory | Creational | |
+| 2 | Builder | Creational | |
+| 3 | Factory Method | Creational | |
+| 4 | Prototype | Creational | |
+| 5 | Singleton | Creational | |
+| 6 | Adapter | Structural | |
+| 7 | Bridge | Structural | |
+| 8 | Composite | Structural | |
+| 9 | Decorator | Structural | |
+| 10 | Facade | Structural | |
+| 11 | Flyweight | Structural | |
+| 12 | Proxy | Structural | |
+| 13 | Chain of Responsibility | |
+| 14 | Command | Behavioral | |
+| 15 | Interpreter | Behavioral | |
+| 16 | Iterator | Behavioral | |
+| 17 | Mediator | Behavioral | |
+| 18 | Memento | Behavioral | |
+| 19 | Observer | Behavioral | |
+| 20 | State | Behavioral | |
+| 21 | Strategy | Behavioral | |
+| 22 | Template | Behavioral | |
+| 23 | Visitor | Behavioral | |
